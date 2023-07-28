@@ -8,5 +8,5 @@ I'm a Information Science & Engineering student, studying in NMAM Institute of T
 - 📊Data Science
 - 🤖Machine Learning
 
-You can find me on [LinkedIn][1].
-[1]: https://www.linkedin.com/in/lisa-bojamma-161202d/
+[![LinkedIn](https://i.imgur.com/ABCD123.png)](https://www.linkedin.com/in/lisa-bojamma-161202d/)
+
