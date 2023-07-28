@@ -12,7 +12,3 @@ I'm Lisa Bojamma, a passionate Information Science & Engineering student at NMAM
 ## Hobbies
 
  📚 Reading 🎨 Poster Design 🍳 Cooking 💃 Dancing 🎨 Painting
-
-[LinkedIn](https://www.linkedin.com/in/lisa-bojamma-161202d/) 
-
-🚀
