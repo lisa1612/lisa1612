@@ -8,11 +8,6 @@ I'm a Information Science & Engineering student, studying in NMAM Institute of T
 - 📊Data Science
 - 🤖Machine Learning
 
-```python
-def greet(name):
-    print(f"Hello, {name}!")
 
-
-## GitHub Stats
-![GitHub commits](https://img.shields.io/github/commit-activity/m/lisa1612/lisa1612)
-
+You can find me on [LinkedIn][1]
+[1]: https://www.linkedin.com/in/lisa-bojamma-161202d/
