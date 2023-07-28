@@ -8,9 +8,8 @@ I'm a Information Science & Engineering student, studying in NMAM Institute of T
 - 📊Data Science
 - 🤖Machine Learning
 
-LinkedIn <a href="https://www.linkedin.com/in/lisa-bojamma-161202d/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25">
-</a>
+LinkedIn - <a href="https://www.linkedin.com/in/lisa-bojamma-161202d/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25"> </a>
 
 
 
