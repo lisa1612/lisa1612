@@ -15,4 +15,8 @@ I'm a software engineer with a background in web development and machine learnin
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisa1612&show_icons=true&hide_title=true&count_private=true&hide=prs)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lisa1612)](https://github.com/ryo-ma/github-profile-trophy)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lisa1612&theme=react)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lisa1612&theme=dark&hide_border=true)
+
+
 
