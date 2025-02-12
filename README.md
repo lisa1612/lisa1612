@@ -1,4 +1,4 @@
-# Hey there! 👋
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa!;I+am+a+Web+Developer!;I'm+Lisa!;I+work+as+a+Software+Engineer+in+Japan)
 
 I'm a software engineer with a background in web development and machine learning, graduated from NMAM Institute of Technology. I love exploring technology and turning innovative ideas into reality. As an aspiring developer and data enthusiast, I enjoy working on projects that involve both creativity and problem-solving🌟 
 
@@ -15,9 +15,6 @@ I'm a software engineer with a background in web development and machine learnin
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=lisa1612&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=light&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisa1612&layout=compact&theme=light)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lisa1612)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+a+Web+Developer!;I+love+building+beautiful+websites!)
-
 
 ## Languages & Tools  
 
