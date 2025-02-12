@@ -14,7 +14,7 @@ I'm a software engineer with a background in web development and machine learnin
  📚 Reading 🎨 Poster Design 🍳 Cooking 💃 Dancing 🎨 Painting
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=lisa1612&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=light&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisa1612&layout=compact&theme=light)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lisa1612e&theme=algolia)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lisa1612&theme=algolia)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lisa1612)](https://github.com/ryo-ma/github-profile-trophy)
 
