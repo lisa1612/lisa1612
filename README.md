@@ -16,7 +16,8 @@ I'm a software engineer with a background in web development and machine learnin
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=lisa1612&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=light&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisa1612&layout=compact&theme=light)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lisa1612)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+a+Web+Developer!;I+love+building+beautiful+websites!)
+
 
 ## Languages & Tools  
 
