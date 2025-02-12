@@ -1,4 +1,6 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa+Bojamma;A+Web+Developer;A+Software+Engineer+based+in+Japan) 
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa+Bojamma;A+Web+Developer;A+Software+Engineer+based+in+Japan)  
+<img src="https://media.giphy.com/media/1r3n8hMN4F2elr2rHi/giphy.gif" width="500">
+
 
 
 
