@@ -9,7 +9,7 @@ I'm a software engineer with a background in web development and machine learnin
   📊 Data Science
   🤖 Machine Learning
 
-## Let's Connect
+## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisa-bojamma-161202d)  
 
 ## Hobbies
