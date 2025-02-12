@@ -1,4 +1,5 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa+Bojamma;A+Web+Developer;A+Software+Engineer+currently+based+in+Japan) <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="400">
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa+Bojamma;A+Web+Developer;A+Software+Engineer+currently+based+in+Japan) <img src="https://media.giphy.com/media/f9m08cNk63x9g/giphy.gif" width="100">
+
 
 
 I'm a software engineer with a background in web development and machine learning, graduated from NMAM Institute of Technology. I love exploring technology and turning innovative ideas into reality. As an aspiring developer and data enthusiast, I enjoy working on projects that involve both creativity and problem-solving🌟 
