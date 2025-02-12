@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa!;I+am+a+Web+Developer!;I'm+Lisa!;I+work+as+a+Software+Engineer+in+Japan)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa!;A+Web+Developer+with+a+passion+for+design;Crafting+beautiful+and+functional+websites;Software+Engineer+based+in+Japan!)
 
 I'm a software engineer with a background in web development and machine learning, graduated from NMAM Institute of Technology. I love exploring technology and turning innovative ideas into reality. As an aspiring developer and data enthusiast, I enjoy working on projects that involve both creativity and problem-solving🌟 
 
