@@ -1,7 +1,6 @@
 # Hey there! 👋
 
-I'm a software engineer with a background in web development and machine learning, graduated from NMAM Institute of Technology. I love exploring technology and turning innovative ideas into reality. As an aspiring developer and data enthusiast, I enjoy working on projects that involve both creativity and problem-solving🌟 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisa-bojamma-161202d)  
-
+I'm a software engineer with a background in web development and machine learning, graduated from NMAM Institute of Technology. I love exploring technology and turning innovative ideas into reality. As an aspiring developer and data enthusiast, I enjoy working on projects that involve both creativity and problem-solving🌟 
 
 ## Interests
   
@@ -9,6 +8,9 @@ I'm a software engineer with a background in web development and machine learnin
   🎨 User Interface (UI) Design
   📊 Data Science
   🤖 Machine Learning
+
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisa-bojamma-161202d)  
 
 ## Hobbies
 
