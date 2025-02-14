@@ -2,12 +2,7 @@
 
 
 I'm a software engineer with a background in web development and machine learning, passionate about exploring technology and turning ideas into reality. A graduate of NMAM Institute of Technology, I love working on projects that blend creativity with problem-solving. As an aspiring developer and data enthusiast, I'm always eager to learn and build something new. 🌟 
-![Girl Coding](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
-
-
-
-
-
+![Female Programmer](https://www.svgrepo.com/show/493330/female-programmer.svg)
 
 
 ## Interests
