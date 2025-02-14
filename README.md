@@ -1,6 +1,7 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa+Bojamma+M+S;A+Web+Developer;A+Software+Engineer;A+UI+Enthusiast;Solving+Problems%2C+One+Bug+at+a+Time!)  
 
-I'm a software engineer with a background in web development and machine learning, passionate about exploring technology and turning ideas into reality. A graduate of NMAM Institute of Technology, I love working on projects that blend creativity with problem-solving. As an aspiring developer and data enthusiast, I'm always eager to learn and build something new. 🌟 ![Code Eat Sleep Repeat](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+I'm a software engineer with a background in web development and machine learning, passionate about exploring technology and turning ideas into reality. A graduate of NMAM Institute of Technology, I love working on projects that blend creativity with problem-solving. As an aspiring developer and data enthusiast, I'm always eager to learn and build something new. 🌟 ![Girl and Code](https://media.giphy.com/media/5xtDarIN81lTXhALq92/giphy.gif)
+
 
 
 
