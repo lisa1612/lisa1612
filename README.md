@@ -1,14 +1,13 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa+Bojamma+M+S;A+Web+Developer;A+Software+Engineer;A+UI+Enthusiast;Solving+Problems%2C+One+Bug+at+a+Time!)  
 
-I'm a software engineer with a background in web development and machine learning, passionate about exploring technology and turning ideas into reality. A graduate of NMAM Institute of Technology, I love working on projects that blend creativity with problem-solving. As an aspiring developer and data enthusiast, I'm always eager to learn and build something new. 🌟 ![Your GIF Description](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
-
+I'm a software engineer with a background in web development and machine learning, passionate about exploring technology and turning ideas into reality. A graduate of NMAM Institute of Technology, I love working on projects that blend creativity with problem-solving. As an aspiring developer and data enthusiast, I'm always eager to learn and build something new. 🌟 
 
 ## Interests
   
   🌐 Web Development
   🎨 User Interface (UI) Design
-  📊 Data Science
-  🤖 Machine Learning
+  📊 Data Science                   ![Your GIF Description](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
+  🤖 Machine Learning  
 
 ## Hobbies
 
