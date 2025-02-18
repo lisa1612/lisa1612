@@ -3,14 +3,11 @@
 I'm a software engineer with a background in web development and machine learning, passionate about exploring technology and turning ideas into reality. A graduate of NMAM Institute of Technology, I love working on projects that blend creativity with problem-solving. Designing is something I truly enjoy, and even though I'm still learning, I love the process of bringing ideas to life 🌟
 ## Interests
   
-  🌐 Web Development
-  🎨 User Interface (UI) Design
-  📊 Data Science                  
-  🤖 Machine Learning  
+🌐 Web Development 🎨 User Interface (UI) Design 📊 Data Science 🤖 Machine Learning  
 
 ## Hobbies
 
- 📚 Reading 🎨 Poster Design 🍳 Cooking 💃 Dancing 🎨 Painting
+📚 Reading 🎨 Poster Design 🍳 Cooking 💃 Dancing 🎨 Painting
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=lisa1612&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lisa1612&layout=compact&theme=transparent) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lisa1612&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
