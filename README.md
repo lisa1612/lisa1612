@@ -1,6 +1,6 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello%2C+World!;I'm+Lisa+Bojamma+M+S;A+Web+Developer;A+Software+Engineer;A+UI+Enthusiast;Solving+Problems%2C+One+Bug+at+a+Time!)  
 
-I'm a software engineer with a background in web development and machine learning, passionate about exploring technology and turning ideas into reality. I love working on projects that blend creativity with problem-solving. Designing is something I truly enjoy, and even though I'm still learning, I love the process of bringing ideas to life 🌟
+I'm a software engineer with a experience in web development and machine learning, currently working on embedded firmware development for robotic systems. I'm passionate about exploring technology and turning ideas into reality. I love working on projects that blend creativity with problem-solving. Designing is something I truly enjoy, and even though I'm still learning, I love the process of bringing ideas to life 🌟
 ## Interests
   
 🌐 Web Development 🎨 User Interface (UI) Design 📊 Data Science 🤖 Machine Learning  
